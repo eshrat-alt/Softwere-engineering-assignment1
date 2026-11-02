@@ -66,8 +66,7 @@ Software-engineering-assignment1/
    `streamlit run frontend.py`
 
 ## Author
-Eshrat fatima (2412117) section b
-bscs-5
+Eshrat fatima
 
 ## Conclusion
 This assignment demonstrates practical implementation of Flask APIs, database operations, API key authentication, and role-based access control.
